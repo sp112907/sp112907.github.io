@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Ch9_1wX5.js";var t={hand:`手寫`,ai:`AI 協作製作`},n=e(),r={hand:`border-star/40 text-star`,ai:`border-ice/40 text-ice`};function i({authorship:e}){return(0,n.jsx)(`span`,{"data-authorship":e,className:`inline-block rounded-full border px-2.5 py-0.5 font-mono text-xs ${r[e]}`,children:t[e]})}export{i as t};
